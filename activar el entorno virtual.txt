@@ -1,0 +1,9 @@
+G:\FAC_SI (master)
+λ entornoviltual\Scripts\activate.bat
+
+crear salto de linea -> linebreak
+
+todo lo que entre dentro de block fue para poder ser modificado de mi plantilla bas.html
+
+para ver las migraciones hecha en la base de dato al crear tabla
+ ejempl=> python manage.py sqlmigrate  inventario 0001_initial
